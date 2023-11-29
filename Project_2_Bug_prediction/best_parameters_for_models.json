@@ -1,0 +1,1 @@
+{"Decision Tree": {"max_depth": null, "min_samples_split": 5, "criterion": "entropy"}, "Gaussian Naive Bayes": {}, "Support Vector Machine": {"C": 10.0, "kernel": "rbf"}, "Multilayer Perceptron": {"hidden_layer_sizes": [70, 30], "activation": "tanh", "solver": "adam", "max_iter": 500}, "Random Forest": {"n_estimators": 100, "max_depth": 10}}
